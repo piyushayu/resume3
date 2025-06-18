@@ -16,7 +16,7 @@
 <h2><u> INTRODUCTION </u></h2>
 <table>
 <tr>
-    <td><img src="photo.png" alt="piyush" width="100"></td>
+    <td><img src="photo.png" alt="piyush" width="100 lenght=100"></td>
     <td> <span> This side piyush singh , I will join the college after two months. I would like to pursue btech in IT from ggsipu college. newbie to this tech field but i always wanted to build something of  my own , that's why i choosed this field. </span></td>
 </tr>
 
