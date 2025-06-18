@@ -111,7 +111,7 @@
 </div>
 
 
- <b>Thats all from my side. I  will try to do  my best in this field and  improve this portfolio as  much  as i can.  </P>
+<p> <b>Thats all from my side. I  will try to do  my best in this field and  improve this portfolio as  much  as i can.  
 <br>
 
 
