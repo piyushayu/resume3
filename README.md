@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -120,6 +120,3 @@
     <P> &copy 2025 piyush singh All rights reserved</P>
 </footer>
 
-
-</body>
-</html>
